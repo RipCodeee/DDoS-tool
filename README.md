@@ -1,4 +1,4 @@
-# DDos Tool
+# DDoS Tool
 
 #Introduction
 
@@ -9,9 +9,9 @@ its open source.
 This programm is just made for fun and learning 
 so if you use it use it at your own risks.
 
-## Installing DDos Tool
+## Installing DDoS Tool
 
-To install DDos Tool, follow these steps:
+To install DDoS tool, follow these steps:
 
 Windows:
 ```bash
